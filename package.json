@@ -28,5 +28,9 @@
   "bugs": {
     "url": "https://github.com/beatrizsmerino/vitepress-setup/issues"
   },
-  "homepage": "https://beatrizsmerino.github.io/vitepress-setup"
+  "homepage": "https://beatrizsmerino.github.io/vitepress-setup",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {},
+  "overrides": {}
 }
