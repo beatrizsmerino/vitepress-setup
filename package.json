@@ -8,14 +8,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beatrizsmerino/vitepress-setup.git"
+    "url": "https://github.com/beatrizsmerino/vitepress-setup.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "vitepress",
+    "documentation",
+    "configuration",
+    "setup",
+    "guide",
+    "onboarding"
+  ],
+  "author": {
+    "name": "Beatriz Sopeña Merino",
+    "email": "beatrizsmerino@gmail.com",
+    "url": "https://github.com/beatrizsmerino"
+  },
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/beatrizsmerino/vitepress-setup/issues"
   },
-  "homepage": "https://github.com/beatrizsmerino/vitepress-setup#readme"
+  "homepage": "https://beatrizsmerino.github.io/vitepress-setup"
 }
