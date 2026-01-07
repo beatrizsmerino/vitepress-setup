@@ -1,14 +1,20 @@
 {
-  "name": "vitepress-setup",
   "version": "1.0.0",
+  "name": "vitepress-setup",
   "description": "Personal onboarding configuration guide with all the steps required to start a project from scratch using VitePress.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": {
+    "name": "Beatriz Sopeña Merino",
+    "email": "beatrizsmerino@gmail.com",
+    "url": "https://github.com/beatrizsmerino"
   },
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/beatrizsmerino/vitepress-setup.git"
+  },
+  "homepage": "https://beatrizsmerino.github.io/vitepress-setup",
+  "bugs": {
+    "url": "https://github.com/beatrizsmerino/vitepress-setup/issues"
   },
   "keywords": [
     "vitepress",
@@ -18,17 +24,11 @@
     "guide",
     "onboarding"
   ],
-  "author": {
-    "name": "Beatriz Sopeña Merino",
-    "email": "beatrizsmerino@gmail.com",
-    "url": "https://github.com/beatrizsmerino"
-  },
-  "license": "ISC",
+  "main": "index.js",
   "type": "module",
-  "bugs": {
-    "url": "https://github.com/beatrizsmerino/vitepress-setup/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://beatrizsmerino.github.io/vitepress-setup",
   "dependencies": {},
   "devDependencies": {},
   "engines": {},
