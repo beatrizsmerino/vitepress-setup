@@ -13,5 +13,6 @@
 		"lib": ["esnext", "dom", "dom.iterable"],
 		"types": ["@types/node"]
 	},
+	"include": ["**/.vitepress/**/*.ts"],
 	"exclude": ["**/node_modules/**", "**/dist/**"]
 }
