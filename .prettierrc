@@ -1,34 +1,39 @@
 {
-  "arrowParens": "avoid",
-  "bracketSameLine": false,
-  "bracketSpacing": true,
-  "embeddedLanguageFormatting": "auto",
-  "htmlWhitespaceSensitivity": "ignore",
-  "insertPragma": false,
-  "jsxSingleQuote": false,
-  "overrides": [
-    {
-      "files": ["*.json", ".prettierrc"],
-      "options": {
-        "printWidth": 0
-      }
-    },
-    {
-      "files": ["*.md"],
-      "options": {
-        "proseWrap": "preserve"
-      }
-    }
-  ],
-  "printWidth": 120,
-  "proseWrap": "always",
-  "quoteProps": "preserve",
-  "requirePragma": false,
-  "semi": true,
-  "singleAttributePerLine": true,
-  "singleQuote": false,
-  "tabWidth": 4,
-  "trailingComma": "all",
-  "useTabs": true,
-  "vueIndentScriptAndStyle": true
+	"arrowParens": "avoid",
+	"bracketSameLine": false,
+	"bracketSpacing": true,
+	"embeddedLanguageFormatting": "auto",
+	"htmlWhitespaceSensitivity": "ignore",
+	"insertPragma": false,
+	"jsxSingleQuote": false,
+	"overrides": [
+		{
+			"files": [
+				"*.json",
+				".prettierrc"
+			],
+			"options": {
+				"printWidth": 0
+			}
+		},
+		{
+			"files": [
+				"*.md"
+			],
+			"options": {
+				"proseWrap": "preserve"
+			}
+		}
+	],
+	"printWidth": 120,
+	"proseWrap": "always",
+	"quoteProps": "preserve",
+	"requirePragma": false,
+	"semi": true,
+	"singleAttributePerLine": true,
+	"singleQuote": false,
+	"tabWidth": 4,
+	"trailingComma": "all",
+	"useTabs": true,
+	"vueIndentScriptAndStyle": true
 }

@@ -10,9 +10,20 @@
 		"resolveJsonModule": true,
 		"verbatimModuleSyntax": true,
 		"jsx": "preserve",
-		"lib": ["esnext", "dom", "dom.iterable"],
-		"types": ["@types/node"]
+		"lib": [
+			"esnext",
+			"dom",
+			"dom.iterable"
+		],
+		"types": [
+			"@types/node"
+		]
 	},
-	"include": ["**/.vitepress/**/*.ts"],
-	"exclude": ["**/node_modules/**", "**/dist/**"]
+	"include": [
+		"**/.vitepress/**/*.ts"
+	],
+	"exclude": [
+		"**/node_modules/**",
+		"**/dist/**"
+	]
 }
