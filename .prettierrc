@@ -18,6 +18,12 @@
       "options": {
         "printWidth": 0
       }
+    },
+    {
+      "files": ["*.md"],
+      "options": {
+        "proseWrap": "preserve"
+      }
     }
   ],
   "printWidth": 120,
