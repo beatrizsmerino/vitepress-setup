@@ -8,13 +8,7 @@
   "jsxSingleQuote": false,
   "overrides": [
     {
-      "files": [".prettierrc"],
-      "options": {
-        "parser": "json"
-      }
-    },
-    {
-      "files": ["*.json"],
+      "files": ["*.json", ".prettierrc"],
       "options": {
         "printWidth": 0
       }
